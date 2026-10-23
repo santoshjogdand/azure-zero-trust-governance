@@ -2,7 +2,7 @@
 
 An enterprise-grade Azure governance baseline implemented using **Azure CLI (Bash)**, **Azure / Microsoft Entra Admin Portals** and little bit of **Microsoft Graph REST APIs**. This project enforces least-privilege identity delegation, additive RBAC hierarchies, ARM resource locks, automated Azure Policy guardrails, and Privileged Identity Management (PIM) within a single Azure subscription.
 
-> 📖 **[Click here for the Step-by-Step Azure Portal & Entra GUI Walkthrough](./docs/portal-walkthrough.md)**
+> 📖 **[Click here for the Step-by-Step Azure Portal & Entra GUI Walkthrough](./Docs/portal-walkthrough.md)**
 
 ---
 
